@@ -18,4 +18,4 @@ OpenWrt >= 19.07.
 
 **Screenshots:**
 
-![](https://github.com/gSpotx2f/luci-app-disks-info/blob/master/screenshots/01.jpg)
+![](https://github.com/kevindoni/luci-app-disks-info/blob/main/screenshots/disk-info.png)
